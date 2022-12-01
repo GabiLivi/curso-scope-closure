@@ -115,4 +115,3 @@ nombre = "Andres"
 console.log(nombre) // ReferenceError: nombre is not defined
 */
 
-
